@@ -27,55 +27,7 @@ A beginner-friendly, command-line bioinformatics tool built in Python for analyz
 ---
 
 ## 📂 Project Structure
-dna-toolkit/
 
-│
-
-├── dna_toolkit/              # Core package with all analysis modules
-
-│   ├── init.py
-
-│   ├── validator.py           # Sequence validation & cleaning
-
-│   ├── counter.py             # Nucleotide counting
-
-│   ├── gc_content.py          # GC content calculation
-
-│   ├── reverse_complement.py  # Reverse complement generation
-
-│   ├── transcription.py       # DNA to RNA conversion
-
-│   ├── translation.py         # DNA to Protein translation
-
-│   ├── sequence_stats.py       # Length & frequency calculations
-
-│   ├── visualizer.py           # Matplotlib chart generation
-
-│   ├── file_handler.py         # File save/read (incl. FASTA)
-
-│   └── report.py               # Full analysis report generator
-
-│
-
-├── data/
-
-│   └── sample.fasta           # Sample DNA sequence (Beta-Globin fragment)
-
-│
-
-├── output/                    # Generated reports & charts saved here
-
-│   └── .gitkeep
-
-│
-
-├── main.py                    # Run this file to start the program
-
-├── README.md
-
-├── requirements.txt
-
-└── .gitignore
 
 ---
 
@@ -117,18 +69,6 @@ You'll be presented with a menu:
 ---
 
 ## 🧪 Example Usage
-Enter your DNA sequence: ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG
-Sequence accepted! Length: 40 bases
-What would you like to do?
-
-Show nucleotide counts
-Calculate GC content
-Get reverse complement
-Convert to RNA
-Translate to protein
-Show nucleotide frequency graph
-Generate full report (and save to file)
-Exit
 
 ---
 
@@ -162,7 +102,7 @@ Exit
 
 **[Abida rehman]**
 B.Sc. Biochemistry | Aspiring Bioinformatician
-[www.linkedin.com/in/abida-rehman-a08b92283] |  | [rehmanabida634@gmail.com]
+[Abida rehman] | [Abida634] | [rehmanabida634@gmail.com]
 
 ---
 
